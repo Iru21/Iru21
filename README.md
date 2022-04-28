@@ -1,4 +1,4 @@
-# My stuff
+# My stuff 📦
 
 ## Minecraft Plugins
 
@@ -16,3 +16,8 @@
 ## Tools
 
 - **quick_farbic** - [Repo](https://github.com/Iru21/quick_fabric) | [Crates](https://crates.io/crates/quick_fabric)
+
+# Contact 📨
+
+- **Discord** - Mateusz#1738
+- **Support Server** - https://discord.gg/BDQA66sDkK
