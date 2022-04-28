@@ -1,16 +1,18 @@
-### Hi there 👋
+# My stuff
 
-<!--
-**Iru21/Iru21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Minecraft Plugins
 
-Here are some ideas to get you started:
+- **Authy** - [Repo](https://github.com/Iru21/Authy) | [Spigot](https://www.spigotmc.org/resources/authy.100004/)
+- **SpawnCuboids** - [Repo](https://github.com/Iru21/SpawnCuboids) | [Spigot](https://www.spigotmc.org/resources/spawncuboids.94198/) ***(DISCONTINUED)***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minecraft Mods
+
+- **WaxedNotWaxed** - [Repo](https://github.com/Iru21/WaxedNotWaxed) | [Modrinth](https://modrinth.com/mod/waxednotwaxed)
+
+## NPM Packages
+
+- **pterowrap** - [Repo](https://github.com/Iru21/pterowrap) | [NPM](https://www.npmjs.com/package/pterowrap)
+
+## Tools
+
+- **quick_farbic** - [Repo](https://github.com/Iru21/quick_fabric) | [Crates](https://crates.io/crates/quick_fabric)
