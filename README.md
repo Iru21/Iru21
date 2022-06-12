@@ -8,6 +8,7 @@
 ## Minecraft Mods
 
 - **WaxedNotWaxed** - [Repo](https://github.com/Iru21/WaxedNotWaxed) | [Modrinth](https://modrinth.com/mod/waxednotwaxed)
+- **TimeDisplay** - [Repo](https://github.com/Iru21/TimeDisplay)
 
 ## NPM Packages
 
