@@ -3,6 +3,7 @@
 ## Minecraft Plugins
 
 - **Authy** - [Repo](https://github.com/Iru21/Authy) | [Spigot](https://www.spigotmc.org/resources/authy.100004/)
+- **SimpleDragonLevels** - [Repo](https://github.com/Iru21/SimpleDragonLevels)
 - **SpawnCuboids** - [Repo](https://github.com/Iru21/SpawnCuboids) | [Spigot](https://www.spigotmc.org/resources/spawncuboids.94198/) ***(DISCONTINUED)***
 
 ## Minecraft Mods
