@@ -22,4 +22,4 @@
 # Contact 📨
 
 - **Discord** - Mateusz#1738
-- **Support Server** - https://discord.gg/BDQA66sDkK
+- **Support Server** - https://discord.gg/jrebrmDD5X
