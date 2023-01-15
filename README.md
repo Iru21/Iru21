@@ -10,6 +10,7 @@
 
 - **WaxedNotWaxed** - [Repo](https://github.com/Iru21/WaxedNotWaxed) | [Modrinth](https://modrinth.com/mod/waxednotwaxed)
 - **TimeDisplay** - [Repo](https://github.com/Iru21/TimeDisplay) | [Modrinth](https://modrinth.com/mod/timedisplay)
+- **CopyWorld** - [Repo](https://github.com/Iru21/CopyWorld) | [Modrinth](https://modrinth.com/mod/copyworld)
 
 ## NPM Packages
 
