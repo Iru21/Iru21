@@ -29,5 +29,5 @@
 
 - **My Website** - https://iru.codes
 - **Mastodon** - <a rel="me" href="https://uwu.social/@iru">https://uwu.social/@iru</a>
-- **Discord** - Mateusz#1738
+- **Discord** - @iru21
 - **Support Server** - https://discord.gg/jrebrmDD5X
