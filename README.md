@@ -27,7 +27,6 @@
 
 # Contact 📨
 
-- **My Website** - https://iru.codes
-- **Mastodon** - <a rel="me" href="https://uwu.social/@iru">https://uwu.social/@iru</a>
 - **Discord** - @iru21
 - **Support Server** - https://discord.gg/jrebrmDD5X
+- **My Website** - https://iru.codes
