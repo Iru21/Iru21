@@ -21,10 +21,6 @@
 
 - **quick_farbic** - [Repo](https://github.com/Iru21/quick_fabric) | [Crates](https://crates.io/crates/quick_fabric)
 
-# Stack 📚
-
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
 # Contact 📨
 
 - **Discord** - @iru21
